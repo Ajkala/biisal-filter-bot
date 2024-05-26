@@ -448,7 +448,7 @@ async def start(client, message):
                 file_id=file_id,
             )
             fileName = {quote_plus(get_name(log_msg))}
-            biisal_stream = f"{URL}watch/{str(log_msg.id)}/{quote_plus(get_name(log_msg))}?hash={get_hash(log_msg)}"
+            biisal_stream = f"https://t.me/filetolink_leo_bo"
             biisal_download = f"https://t.me/filetolink_leo_bot"
             msg = await client.send_cached_media(
                 chat_id=message.from_user.id,
@@ -524,7 +524,7 @@ async def start(client, message):
                 file_id=file_id,
             )
     fileName = {quote_plus(get_name(log_msg))}
-    biisal_stream = f"{URL}watch/{str(log_msg.id)}/{quote_plus(get_name(log_msg))}?hash={get_hash(log_msg)}"
+    biisal_stream = f"https://t.me/filetolink_leo_bo"
     biisal_download = f"https://t.me/filetolink_leo_bot"
     msg = await client.send_cached_media(
         chat_id=message.from_user.id,
