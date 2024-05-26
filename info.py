@@ -40,7 +40,7 @@ if HAS_SSL:
     URL = "https://{}/".format(FQDN)
 else:
     URL = "http://{}/".format(FQDN)
-REPO_OWNER = "Biisal"
+REPO_OWNER = "Shinchan"
 
 # Bot information
 SESSION = environ.get('SESSION', 'radhe-radhe2')
