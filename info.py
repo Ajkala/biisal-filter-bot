@@ -82,9 +82,9 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'modijiurl.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '9864c124ef5c85c8bdde503ba08243691de65151') #use my api so i can make some money 🤣..just kidding guys..mai already aamir hoon🥱 
+SHORTLINK_API = environ.get('SHORTLINK_API', 'b3b5b6be9e07710872a19f227423699f3e2645a6') #use my api so i can make some money 🤣..just kidding guys..mai already aamir hoon🥱 
 SECOND_SHORTLINK_URL = environ.get('SECOND_SHORTLINK_URL', 'modijiurl.com')
-SECOND_SHORTLINK_API = environ.get('SECOND_SHORTLINK_API', 'b3b5b6be9e07710872a19f227423699f3e2645a6')
+SECOND_SHORTLINK_API = environ.get('SECOND_SHORTLINK_API', '9864c124ef5c85c8bdde503ba08243691de65151')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '-1002080693695').split()] #Add a channel ID here. When you send any file to this channel, the bot will delete the file details from the MongoDB 
 MAX_B_TN = environ.get("MAX_B_TN", "20")
