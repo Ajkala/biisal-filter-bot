@@ -220,7 +220,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href="https://t.me/+jARGKkERm1RlNDU1">{file_name}
+    CAPTION = """<b><a href="https://t.me/filetolink_leo_bot">{file_name}
 
 sɪᴢᴇ : {file_size}
 Click Me For Fast Download</a></b>"""
