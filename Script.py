@@ -35,7 +35,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ NOT Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.</b>
-<b>Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ : @Biisal<b/>
+<b>Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ : @Shinchan_2807<b/>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
