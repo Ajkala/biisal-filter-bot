@@ -460,11 +460,11 @@ async def start(client, message):
                         InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🚩', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
                         ],
                      [
-                        InlineKeyboardButton("🔻ғᴀsᴛ ᴅᴏᴡɴʟᴏᴀᴅ ⚡", url="https://t.me/filetolink_leo_bot"),                   
+                        InlineKeyboardButton("🔻ғᴀsᴛ ᴅᴏᴡɴʟᴏᴀᴅ ⚡", url=biisal_download),                   
                      ],
                    
                      [
-                        InlineKeyboardButton('🔻ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ 👻', url="https://t.me/filetolink_leo_bot"),                  
+                        InlineKeyboardButton('🔻ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ 👻', url=biisal_stream),                  
                      ]
 
                     ]
