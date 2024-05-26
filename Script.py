@@ -223,7 +223,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
     CAPTION = """<b><a href="https://t.me/+jARGKkERm1RlNDU1">{file_name}
 
 sɪᴢᴇ : {file_size}
-Use https://t.me/filetolink_leo_bot bot For Fast Download + Online stream.How To Use File2link Bot video 👉 https://t.me/kpslinkteam/49</a></b>"""
+Use @filetolink_leo_bot bot For Fast Download</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
