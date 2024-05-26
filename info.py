@@ -92,7 +92,7 @@ MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/kungfupanda4_movies')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/hdhindibackup')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/desidude4u_open/129')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/kpslinkteam/52')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', '')
 
